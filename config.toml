@@ -1,5 +1,5 @@
 baseURL = 'http://blog.harymomchilov.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Zahari Momchilov Portfolio'
 publishDir = "docs"
 theme = "hugo-theme-shell"
